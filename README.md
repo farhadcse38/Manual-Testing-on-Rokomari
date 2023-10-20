@@ -1,1 +1,1 @@
-# Manula-Testing-on-Rokomari
+# Manual-Testing-on-Rokomari
